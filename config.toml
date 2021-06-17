@@ -25,10 +25,7 @@ preserveTaxonomyNames = true
     # showhugo = true
 
     # Urls for social networks
-    facebook = "https://pornhub.com"
-    twitter = "https://pornhub.com"
-    linkedin = "https://linkedin.com"
-    github = "https://github.com"
+    github = "https://github.com/PaulWebber"
 
     # Enables or disables the loading animations. false activates them. Default is false.
     loadfastload = false
