@@ -1,6 +1,7 @@
 +++
 author = "Paul Webber"
 title = "Movie for June 25, 2021 - The Lighthouse"
+date = ""
 description = "Teh next movie is..."
 tags = [
     "ckad",
