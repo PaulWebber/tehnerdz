@@ -3,10 +3,6 @@ author = "Paul Webber"
 title = "The Lighthouse"
 date = "2021-06-17"
 description = "Screening June 25, 2021"
-tags = [
-    "ckad",
-	"movie",
-]
 +++
 
 [Lighthouse](https://www.imdb.com/title/tt7984734/)
