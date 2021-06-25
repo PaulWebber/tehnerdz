@@ -1,17 +1,17 @@
 +++
 author = "Paul Webber"
-title = "The Lighthouse"
-date = "2021-06-22"
-description = "Screening June 25, 2021"
+title = "I Am Legend"
+date = "2021-06-24"
+description = "Screening June 28, 2021"
 +++
 
-Title: [The Lighthouse](https://www.rottentomatoes.com/m/the_lighthouse_2019)\
-Year: 2019\
-Rating: R\
-Runtime: 109 min\
-Genre: Drama, Fantasy, Horror\
-Plot: As the wavering cry of the foghorn fills the air, the taciturn former lumberjack, Ephraim Winslow, and the grizzled lighthouse keeper, Thomas Wake, set foot in a secluded and perpetually grey islet off the coast of late-19th-century New England. For the following four weeks of back-breaking work and unfavourable conditions, the tight-lipped men will have no one else for company except for each other, forced to endure irritating idiosyncrasies, bottled-up resentment, and burgeoning hatred. Then, amid bad omens, a furious and unending squall maroons the pale beacon's keepers in the already inhospitable volcanic rock, paving the way for a prolonged period of feral hunger; excruciating agony; manic isolation, and horrible booze-addled visions. Now, the eerie stranglehold of insanity tightens. Is there an escape from the wall-less prison of the mind?\
-![Movie](https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg)\
+Title: [I Am Legend](https://www.rottentomatoes.com/m/i_am_legend/)\
+Year: 2007\
+Rating: PG-13\
+Runtime: 101 min\
+Genre: Action, Adventure, Drama\
+Plot: Robert Neville (Will Smith) is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made in this post-apocalyptic action thriller. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone. Mutant victims of the plague - the Infected - lurk in the shadows - watching Neville's every move - waiting for him to make a fatal mistake. Perhaps mankind's last, best hope, Neville is driven by only one remaining mission: to find a way to reverse the effects of the virus using his own immune blood. But he knows he is outnumbered - and quickly running out of time.\
+![Movie](https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)\
 
 * [Click to View](https://s.kast.live/g/9da8ll3kwkh)
 * [Click to Chat](https://meet.jit.si/UAFSA)
