@@ -1,17 +1,17 @@
 +++
 author = "Paul Webber"
-title = "I Am Legend"
-date = "2021-06-24"
-description = "Screening June 28, 2021"
+title = "Little Miss Sunshine"
+date = "2021-06-28"
+description = "Screening June 25, 2021"
 +++
 
-Title: [I Am Legend](https://www.rottentomatoes.com/m/i_am_legend/)\
-Year: 2007\
-Rating: PG-13\
+Title: [Little Miss Sunshine](https://www.rottentomatoes.com/m/little_miss_sunshine/)\
+Year: 2006\
+Rating: R\
 Runtime: 101 min\
-Genre: Action, Adventure, Drama\
-Plot: Robert Neville (Will Smith) is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made in this post-apocalyptic action thriller. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone. Mutant victims of the plague - the Infected - lurk in the shadows - watching Neville's every move - waiting for him to make a fatal mistake. Perhaps mankind's last, best hope, Neville is driven by only one remaining mission: to find a way to reverse the effects of the virus using his own immune blood. But he knows he is outnumbered - and quickly running out of time.\
-![Movie](https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)\
+Genre: Comedy, Drama\
+Plot: In Albuquerque, Sheryl Hoover brings her suicidal brother Frank to the breast of her dysfunctional and emotionally bankrupted family. Frank is homosexual, an expert in Proust. He tried to commit suicide when he was rejected by his boyfriend and his great competitor became renowned and recognized as number one in the field of Proust. Sheryl's husband Richard is unsuccessfully trying to sell his self-help and self-improvement technique using nine steps to reach success, but he is actually a complete loser. Her son Dwayne has taken a vow of silence as a follower of Nietzsche and aims to be a jet pilot. Dwayne's grandfather Edwin was sent away from the institution for elders (Sunset Manor) and is addicted in heroin. When her seven-year-old daughter Olive has a chance to dispute the Little Miss Sunshine pageant in Redondo Beach, California, the whole family travels together in their old Volkswagen Type 2 (Kombi) in a funny journey of hope of winning the talent contest and to make a dream come true.\
+![Movie](https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg)\
 
 * [Click to View](https://s.kast.live/g/9da8ll3kwkh)
 * [Click to Chat](https://meet.jit.si/UAFSA)
