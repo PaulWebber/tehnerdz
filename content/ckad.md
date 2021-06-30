@@ -1,17 +1,17 @@
 +++
 author = "Paul Webber"
-title = "Little Miss Sunshine"
-date = "2021-06-28"
+title = "Con Air"
+date = "2021-06-30"
 description = "Screening June 25, 2021"
 +++
 
-Title: [Little Miss Sunshine](https://www.rottentomatoes.com/m/little_miss_sunshine/)\
-Year: 2006\
+Title: [Con Air](https://www.rottentomatoes.com/m/con_air/)\
+Year: 1997\
 Rating: R\
-Runtime: 101 min\
-Genre: Comedy, Drama\
-Plot: In Albuquerque, Sheryl Hoover brings her suicidal brother Frank to the breast of her dysfunctional and emotionally bankrupted family. Frank is homosexual, an expert in Proust. He tried to commit suicide when he was rejected by his boyfriend and his great competitor became renowned and recognized as number one in the field of Proust. Sheryl's husband Richard is unsuccessfully trying to sell his self-help and self-improvement technique using nine steps to reach success, but he is actually a complete loser. Her son Dwayne has taken a vow of silence as a follower of Nietzsche and aims to be a jet pilot. Dwayne's grandfather Edwin was sent away from the institution for elders (Sunset Manor) and is addicted in heroin. When her seven-year-old daughter Olive has a chance to dispute the Little Miss Sunshine pageant in Redondo Beach, California, the whole family travels together in their old Volkswagen Type 2 (Kombi) in a funny journey of hope of winning the talent contest and to make a dream come true.\
-![Movie](https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg)\
+Runtime: 115 min\
+Genre: Action, Crime, Thriller\
+Plot: Cameron Poe, a highly decorated United States Army Ranger, came home to Alabama to his wife, Tricia, only to run into a few drunken regulars where Tricia works. Cameron unknowingly kills one of the drunks and is sent to a federal penitentiary for involuntary manslaughter for seven years. Cameron becomes eligible for parole and can now go home to his wife and daughter. Unfortunately, Cameron has to share a prison airplane with some of the country's most dangerous criminals, who took control of the plane and are now planning to escape the country. Cameron has to find a way to stop them while playing along. Meanwhile, United States Marshal Vincent Larkin is trying to help Cameron get free and stop the criminals, including Cyrus "The Virus" Grissom.\
+![Movie](https://m.media-amazon.com/images/M/MV5BMGZmNGIxMTYtMmVjMy00YzhkLWIyOTktNTExZGFiYjNiNzdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg)\
 
 * [Click to View](https://s.kast.live/g/9da8ll3kwkh)
 * [Click to Chat](https://meet.jit.si/UAFSA)
