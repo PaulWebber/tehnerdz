@@ -6,6 +6,7 @@ description = "Screening June 25, 2021"
 +++
 
 Title: [Little Miss Sunshine](https://www.rottentomatoes.com/m/little_miss_sunshine/)\
+Trailer: [Little Miss Sunshine](https://www.youtube.com/watch?v=bQ7BZTMLImA)\
 Year: 2006\
 Rating: R\
 Runtime: 101 min\
