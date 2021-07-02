@@ -6,7 +6,6 @@ description = "Screening "+ n[0]
 +++
 
 Title: [Con Air](https://www.rottentomatoes.com/m/con_air/)\
-Trailer: [Con Air](https://www.youtube.com/watch?v=3T0m9nvGws0)\
 Year: 1997\
 Rating: R\
 Runtime: 115 min\
