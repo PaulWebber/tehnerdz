@@ -2,7 +2,7 @@
 author = "Paul Webber"
 title = "Little Miss Sunshine"
 date = "2021-07-02"
-description = "Screening Soon"
+description = "Screening Soon "2021-07-02
 +++
 
 Title: [Little Miss Sunshine](https://www.rottentomatoes.com/m/little_miss_sunshine/)\
