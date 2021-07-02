@@ -8,21 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tehnerdz.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Con Air</title>
-      <link>https://tehnerdz.com/ckad/</link>
-      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tehnerdz.com/ckad/</guid>
-      <description>Title: Con Air
-Trailer: Con Air
-Year: 1997
-Rating: R
-Runtime: 115 min
-Genre: Action, Crime, Thriller
-Plot: Cameron Poe, a highly decorated United States Army Ranger, came home to Alabama to his wife, Tricia, only to run into a few drunken regulars where Tricia works. Cameron unknowingly kills one of the drunks and is sent to a federal penitentiary for involuntary manslaughter for seven years. Cameron becomes eligible for parole and can now go home to his wife and daughter.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://tehnerdz.com/about/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
@@ -48,6 +33,21 @@ Plot: Cameron Poe, a highly decorated United States Army Ranger, came home to Al
       
       <guid>https://tehnerdz.com/archives/</guid>
       <description>Bottoms</description>
+    </item>
+    
+    <item>
+      <title>Con Air</title>
+      <link>https://tehnerdz.com/ckad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tehnerdz.com/ckad/</guid>
+      <description>Title: Con Air
+Trailer: Con Air
+Year: 1997
+Rating: R
+Runtime: 115 min
+Genre: Action, Crime, Thriller
+Plot: Cameron Poe, a highly decorated United States Army Ranger, came home to Alabama to his wife, Tricia, only to run into a few drunken regulars where Tricia works. Cameron unknowingly kills one of the drunks and is sent to a federal penitentiary for involuntary manslaughter for seven years. Cameron becomes eligible for parole and can now go home to his wife and daughter.</description>
     </item>
     
   </channel>
